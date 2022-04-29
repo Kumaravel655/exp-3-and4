@@ -1,4 +1,4 @@
-# exp-3-and4
+
 # Ex.No:4 Design an android application Send SMS using Intent.
 
 ## AIM:
